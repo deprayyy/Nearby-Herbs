@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>695470303636-5uekmo257b1h4agdd1hfk3me5vn5oafj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.695470303636-5uekmo257b1h4agdd1hfk3me5vn5oafj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC1nfiwEJTrFAeaTkgliXi63XCMFw83I84</string>
+	<key>GCM_SENDER_ID</key>
+	<string>695470303636</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.skripsiapps</string>
+	<key>PROJECT_ID</key>
+	<string>authnearbyherbs</string>
+	<key>STORAGE_BUCKET</key>
+	<string>authnearbyherbs.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:695470303636:ios:78cfbc50dad6723c7ac781</string>
+	<key>DATABASE_URL</key>
+	<string>https://authnearbyherbs-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
